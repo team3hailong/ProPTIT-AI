@@ -1,0 +1,10 @@
+﻿streamlit
+langchain
+openai
+faiss-cpu
+chromadb
+unstructured
+pandas
+
+langchain-google-genai
+langchain-comunity
