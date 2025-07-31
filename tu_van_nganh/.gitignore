@@ -1,0 +1,21 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore data and embeddings (optional, remove if you want to keep these tracked)
+data/
+embeddings/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
