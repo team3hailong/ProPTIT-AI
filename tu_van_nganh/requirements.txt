@@ -7,4 +7,4 @@ unstructured
 pandas
 
 langchain-google-genai
-langchain-comunity
+langchain-community
